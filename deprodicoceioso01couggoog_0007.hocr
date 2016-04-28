@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deprodicoceioso01couggoog_0007.png"; bbox 0 0 877 1313; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 445 533 559">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 445 533 559">
+     <span class='ocr_line' id='line_1_1' title="bbox 386 445 486 462; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 386 445 486 462; x_wconf 79' lang='lat' dir='ltr'>MEMORlAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 336 496 533 511; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 336 496 388 511; x_wconf 72' lang='lat' dir='ltr'>own&#39;m</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 500 420 511; x_wconf 76' lang='lat' dir='ltr'>m·</span> <span class='ocrx_word' id='word_1_4' title='bbox 431 499 533 511; x_wconf 69' lang='lat' dir='ltr'>nnmc&#39;nssuss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 409 547 464 559; baseline -0.018 0"><span class='ocrx_word' id='word_1_5' title='bbox 409 547 464 559; x_wconf 71' lang='lat' dir='ltr'><strong>sonum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 314 590 558 652">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 314 590 558 652">
+     <span class='ocr_line' id='line_1_4' title="bbox 314 590 558 608; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 314 594 406 608; x_wconf 69' lang='grc' dir='ltr'>ιΔσοιι</span> <span class='ocrx_word' id='word_1_7' title='bbox 416 590 542 607; x_wconf 55' lang='lat' dir='ltr'>anthol·</span> <span class='ocrx_word' id='word_1_8' title='bbox 551 599 558 607; x_wconf 83' lang='grc'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 395 641 479 652; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 395 641 479 652; x_wconf 70' lang='grc' dir='ltr'><strong>ῺΕΠΙΕΑΒΔΤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 368 680 504 698">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 368 680 504 698">
+     <span class='ocr_line' id='line_1_6' title="bbox 368 680 504 698; baseline -0.007 0"><span class='ocrx_word' id='word_1_10' title='bbox 368 681 387 698; x_wconf 88' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_11' title='bbox 403 680 504 698; x_wconf 80' lang='lat' dir='ltr'>COUGNY.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 377 893 557 1044">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 377 893 557 1044">
+     <span class='ocr_line' id='line_1_7' title="bbox 377 893 557 1044; baseline 0 269"><span class='ocrx_word' id='word_1_12' title='bbox 377 893 557 1044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
